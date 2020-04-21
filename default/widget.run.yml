@@ -1,6 +1,7 @@
 id: table_test
 json:
   paging: true
+  iDisplayLength : 10
   ordering: true
   info: true
   searching: true

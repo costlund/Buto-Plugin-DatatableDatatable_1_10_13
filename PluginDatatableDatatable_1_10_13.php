@@ -4,7 +4,7 @@
 https://datatables.net/
 </p>
 <p>
-Just set id to any table and use widgets "include" and "run" to make use of Dynatable.
+Just set id to any table and use widgets "include" and "run" to make use of Datatable.
 </p>
 <p>Go to https://datatables.net/plug-ins/i18n/ for downloading i18n files.</p>
  * 
